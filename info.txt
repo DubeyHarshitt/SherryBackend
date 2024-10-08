@@ -1,0 +1,9 @@
+To Create Upload functionality we've created UTILS directory
+Utils k aandar Multer.config.js file banai hai
+
+Multer Steps :- 
+  requiire Multer
+  setup Diskstorage
+  Create and export Upload variable
+  ( we can get it form npm.multer.js )
+  
